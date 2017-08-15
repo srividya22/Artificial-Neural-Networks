@@ -1,3 +1,5 @@
+##
+
 Artificial-Neural-Networks
 
 
@@ -6,4 +8,4 @@ Artificial-Neural-Networks
 
 2. Types of Neural Networks and applications
 
-[![]({{site.baseurl}}//neural_networks.png)]()
+![]({{site.baseurl}}/images/neural_networks.png)
